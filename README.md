@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. As stated above, the main purpose
 THis is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2016, Robert S. Schick, PhD
