@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This does some great stuff here. No, I mean really great!
+This does some great stuff here. No, I mean really great! Adding more changes from the myfeature branch
 
 ## Introduction
 
