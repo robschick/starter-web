@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This does some great stuff here
+This does some great stuff here. No, I mean really great!
 
 ## Introduction
 
