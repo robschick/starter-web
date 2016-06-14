@@ -4,6 +4,7 @@
 # TEAM
 
     Rob Schick, robschick@gmail.com
+    rss5@st-andrews.ac.uk
 
 # THANKS
 
